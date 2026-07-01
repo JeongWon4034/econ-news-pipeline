@@ -1,0 +1,15 @@
+# 폴링할 경제 뉴스 RSS 피드 목록.
+# 새 언론사를 추가하려면 name/url 한 줄만 추가하면 된다.
+feeds:
+  - name: 연합뉴스_경제
+    url: https://www.yonhapnewstv.co.kr/browse/feed/
+  - name: 한겨레_경제
+    url: https://www.hani.co.kr/rss/economy/
+  - name: 경향신문_경제
+    url: https://www.khan.co.kr/rss/rssdata/economy_news.xml
+  - name: SBS_경제
+    url: https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02
+  - name: 매일경제_전체
+    url: https://www.mk.co.kr/rss/30000001/
+  - name: 한국경제_전체
+    url: https://rss.hankyung.com/feed/economy.xml

@@ -1,0 +1,5 @@
+# 멀티에이전트 / RAG / Iceberg 읽기용 (Airflow 워커에서 실행)
+pyiceberg[s3fs,pyarrow]==0.7.1
+qdrant-client==1.11.0
+langgraph==0.2.34
+openai==1.51.0

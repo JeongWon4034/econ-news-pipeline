@@ -1,0 +1,20 @@
+# 환경/비밀
+.env
+
+# Airflow 런타임
+airflow/logs/
+airflow/plugins/
+
+# 생성물
+docs/briefings/*.md
+
+# 파이썬
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 체크포인트/데이터
+/tmp/chk/
+*.log
+.DS_Store
